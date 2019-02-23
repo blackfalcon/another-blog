@@ -12,3 +12,7 @@ $ gatsby build
 $ cd public/
 $ surge
 ```
+
+### Travis CI
+
+Deploy process is automated with Travis CI.
