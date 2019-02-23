@@ -20,9 +20,9 @@ That is a GREAT question. I don't know. Do you really care? Maybe, maybe not.
 
 What makes this time exciting for me is, I am in a really great position to be learning and again be in the bleeding edge of how things are done.
 
-I have had a great career designing and building things for a long list of clients to include Microsoft, REI, BestBuy, Getty Images, Code Fellows, and an even longer list of companies you may have never heard of. What's before me now is an opportunity to really use all of this knowledge and experience to lead a team into a new future.
+I have had a great career designing and building things for a long list of clients to include Microsoft, REI, BestBuy, Getty Images, Code Fellows, AppDirect, and an even longer list of companies you may have never heard of. What's before me now is an opportunity to really use all of this knowledge and experience to lead a team into a new future.
 
-Since about 2008 I have had a real infatuation for Design Systems. I started speaking at meetups, then conferences. I moved across the county in search of bigger and better opportunities to really explore this space. Along the way I have had some really amazing projects where I got to really exercise these skills. Even today, this is my focus. This is my passion and what makes today even more amazing is that we now have the tools to really deliver in a dream!
+Since about 2008 I have had a real infatuation for Design Systems. I started speaking at meetups, then conferences. I moved across the county in search of bigger and better opportunities to really explore this space. Along the way I have had some really amazing projects where I got to really exercise these skills. Even today, this is my focus. This is my passion and what makes today even more amazing is that we now have the tools to really deliver on a dream!
 
 ## Today is better than yesterday
 
