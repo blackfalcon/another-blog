@@ -32,8 +32,8 @@ function Bio() {
             />
             <p>
               Maintained by <strong>{author}</strong> who lives and works in the PNW and not short of opinions.
-              {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
+              <br/>Yes, the opinion are 100% my own and may not be shared by my employer.
+              <br/>Follow me if interested | <a target="_blank" href={`https://twitter.com/${social.twitter}`}>
                 @anotheruiguy
               </a>
             </p>
