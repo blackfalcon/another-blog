@@ -39,7 +39,7 @@ function Bio() {
                   border: `1px solid`,
                   borderRadius: 3,
                   padding: 5,
-                  boxShadow: `0, 0, 0`,
+                  boxShadow: `unset`,
                   marginLeft: 7,
                   fontSize: `.8rem`
                 }}
