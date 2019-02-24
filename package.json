@@ -51,7 +51,7 @@
   "scripts": {
     "clear": "rm -rf .cache/",
     "build": "npm run clear | gatsby build",
-    "develop": "gatsby develop",
+    "dev": "gatsby develop",
     "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",
     "serve": "gatsby serve",

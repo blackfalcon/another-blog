@@ -31,11 +31,38 @@ function Bio() {
               }}
             />
             <p>
-              Maintained by <strong>{author}</strong> who lives and works in the PNW and not short of opinions.
-              <br/>Yes, the opinion are 100% my own and may not be shared by my employer.
-              <br/>Follow me if interested | <a target="_blank" href={`https://twitter.com/${social.twitter}`}>
-                @anotheruiguy
+              <strong>{author}</strong>
+              <a
+                target="_blank"
+                style={{
+                  color: `unset`,
+                  border: `1px solid`,
+                  borderRadius: 3,
+                  padding: 5,
+                  boxShadow: `0, 0, 0`,
+                  marginLeft: 7,
+                  fontSize: `.8rem`
+                }}
+                href={`https://twitter.com/${social.twitter}`}>
+                <img
+                  style={{
+                    width: 12,
+                    marginRight: 3,
+                    marginBottom: 0
+                  }}
+                  src='https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/svgs/fi-social-twitter.svg'
+                />
+                follow
               </a>
+              <br/>
+              <span
+                style={{
+                  fontSize: `0.8rem`
+                }}
+                >
+                designer | developer | seattle
+              </span>
+
             </p>
           </div>
         )
