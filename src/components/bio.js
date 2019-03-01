@@ -34,6 +34,7 @@ function Bio() {
               <strong>{author}</strong>
               <a
                 target="_blank"
+                rel="noopener noreferrer"
                 style={{
                   color: `unset`,
                   border: `1px solid`,
@@ -45,6 +46,7 @@ function Bio() {
                 }}
                 href={`https://twitter.com/${social.twitter}`}>
                 <img
+                  alt='icon'
                   style={{
                     width: 12,
                     marginRight: 3,
