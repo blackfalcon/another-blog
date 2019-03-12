@@ -28,7 +28,7 @@ So this got me to start thinking that I don't care that the user has a touch dev
 
 I mean, come on! That's it. I knew I was reading the right article when he summed up the idea with this:
 
-> ... f you’ve just arrived at the airport and your friend that was coming to pick you up isn’t there. You want to know if they’re at least on their way to pick you up. So you call and ask if they’re currently strapped to a chair. Sure, a lot of the time when someone’s driving they’re strapped to a chair, but you can drive without being strapped to a chair, and you can be strapped to a chair without being in a car ...
+> ... you’ve just arrived at the airport and your friend that was coming to pick you up isn’t there. You want to know if they’re at least on their way to pick you up. So you call and ask if they’re currently strapped to a chair. Sure, a lot of the time when someone’s driving they’re strapped to a chair, but you can drive without being strapped to a chair, and you can be strapped to a chair without being in a car ...
 
 So there it is. I don't care how small or large the device is, or if it is touch enabled or not. The question I want to know is, are you touching it?
 
