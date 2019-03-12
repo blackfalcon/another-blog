@@ -4,6 +4,10 @@ date: "2019-03-01"
 description: This week challenged me with the age 'ole question of how to deal with hover events and touch devices. When @media queries fail, what next?
 ---
 
+This week challenged me with the age 'ole question of how to deal with hover events and touch devices. When @media queries fail, what next?
+
+![touch](http://www.asianefficiency.com/wp-content/uploads/2011/02/touchitonce.jpg)
+
 Since the dawn of mobile-first thinking, hover events have been a pretty strict no-no. Mainly because you can't _hover_ on a touch device. Early on in mobile-first design concepts, this was easily addressed by using media queries and feature detection to easily discern what type of device the user was on and how this interaction would work. With the rise of 2-in-1 touch enabled larger devices, these techniques no longer apply.
 
 Within our Design System, I am building a button. In the design spec is a hover interaction. _Sure_ I thought. It's a button, why not have a hover?! Well, the trap was set and I walked right into it. 
