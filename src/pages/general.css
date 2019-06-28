@@ -1,0 +1,8 @@
+.gatsby-resp-image-wrapper {
+  max-width: unset !important;
+}
+
+.gatsby-resp-image-image {
+  display: block;
+  width: 100%;
+}
