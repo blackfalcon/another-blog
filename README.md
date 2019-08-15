@@ -8,3 +8,5 @@ For any information regarding the development or build of the site, see document
 #### Build status
 
 [![Build Status](https://travis-ci.com/blackfalcon/another-blog.svg?branch=master)](https://travis-ci.com/blackfalcon/another-blog)
+
+YAY!
