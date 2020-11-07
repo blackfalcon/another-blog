@@ -1,7 +1,7 @@
 ---
-title: Custom elements, what's the big deal?!
+title: Custom elements, so what's really the big deal?!
 date: "2020-11-06"
-description: Custom elements, or commonly known as web components, are all the rage and new hotness. But why?
+description: Custom elements, or commonly known as web components, are all the rage and new hotness. But why? Why now? And, how does this change everything?
 ---
 
 This is my blog, so I am not going to beat around the bush much. The fact is, [custom elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements) have been a dream for close to 15 years. Unlike many in web development, I have been watching the evolution of custom elements the whole time. Seeing their value without hesitation, I have simply been waiting for the tech to catch up to the dream.
